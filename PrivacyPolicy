@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Newsfy — Política de Privacidad</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: #1a1a2e;
+            background: #f8f9fa;
+            padding: 2rem 1rem;
+        }
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 12px;
+            padding: 2.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+        }
+        h1 { font-size: 1.8rem; color: #1a365d; margin-bottom: 0.3rem; }
+        .subtitle { color: #64748b; margin-bottom: 2rem; font-size: 0.95rem; }
+        h2 { font-size: 1.15rem; color: #1a365d; margin: 1.8rem 0 0.6rem; }
+        p, li { font-size: 0.95rem; color: #334155; margin-bottom: 0.6rem; }
+        ul { padding-left: 1.5rem; }
+        a { color: #3b82f6; }
+        .footer { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid #e2e8f0; font-size: 0.85rem; color: #94a3b8; }
+    </style>
+</head>
+<body>
+<div class="container">
+
+<h1>Política de Privacidad</h1>
+<p class="subtitle">Última actualización: 9 de julio de 2026</p>
+
+<p><strong>Newsfy</strong> ("la aplicación") es una app de noticias desarrollada por Alberto García Ramos. Esta política explica qué datos recopilamos, cómo los usamos y los derechos que tienes sobre ellos.</p>
+
+<h2>1. Datos que recopilamos</h2>
+<p>Newsfy recopila la mínima información necesaria para funcionar:</p>
+<ul>
+    <li><strong>Datos de uso anónimos:</strong> categorías consultadas, artículos leídos y marcadores guardados. Se almacenan localmente en tu dispositivo.</li>
+    <li><strong>Datos técnicos:</strong> versión de la app, versión de Android y tipo de dispositivo. Se usan exclusivamente para diagnosticar errores.</li>
+</ul>
+<p>Newsfy <strong>no</strong> recopila nombre, correo electrónico, ubicación, contactos ni identificadores publicitarios en su versión actual (v1).</p>
+
+<h2>2. Cómo usamos los datos</h2>
+<ul>
+    <li>Mostrar noticias y sus puntuaciones de sesgo/propaganda.</li>
+    <li>Guardar tus preferencias y marcadores localmente.</li>
+    <li>Mejorar la estabilidad de la aplicación.</li>
+</ul>
+
+<h2>3. Compartición de datos</h2>
+<p>No vendemos, compartimos ni transferimos datos personales a terceros. Los artículos de noticias se obtienen de fuentes RSS públicas y se analizan en nuestro servidor sin vincularlos a ningún usuario.</p>
+
+<h2>4. Almacenamiento y seguridad</h2>
+<p>Las preferencias y marcadores se almacenan localmente en tu dispositivo. Las comunicaciones con nuestro servidor se realizan mediante HTTPS (cifrado TLS).</p>
+
+<h2>5. Servicios de terceros</h2>
+<p>Newsfy utiliza los siguientes servicios:</p>
+<ul>
+    <li><strong>Supabase:</strong> infraestructura de backend (alojado en la UE). <a href="https://supabase.com/privacy" rel="noopener">Política de privacidad de Supabase</a>.</li>
+</ul>
+
+<h2>6. Tus derechos (RGPD)</h2>
+<p>Conforme al Reglamento General de Protección de Datos de la UE, tienes derecho a:</p>
+<ul>
+    <li>Acceder a los datos que tenemos sobre ti.</li>
+    <li>Solicitar la rectificación o eliminación de tus datos.</li>
+    <li>Oponerte al tratamiento de tus datos.</li>
+    <li>Solicitar la portabilidad de tus datos.</li>
+</ul>
+
+<h2>7. Menores</h2>
+<p>Newsfy no está dirigida a menores de 16 años. No recopilamos datos de menores de forma consciente.</p>
+
+<h2>8. Cambios en esta política</h2>
+<p>Publicaremos cualquier cambio en esta misma página y actualizaremos la fecha de "última actualización". Los cambios significativos se notificarán dentro de la aplicación.</p>
+
+<h2>9. Contacto</h2>
+<p>Para cualquier consulta relacionada con la privacidad:</p>
+<p>📧 <a href="mailto:albertogr.contacto@gmail.com">albertogr.contacto@gmail.com</a></p>
+
+<div class="footer">
+    <p>&copy; 2026 Newsfy — Alberto García Ramos. Todos los derechos reservados.</p>
+</div>
+
+</div>
+</body>
+</html>
